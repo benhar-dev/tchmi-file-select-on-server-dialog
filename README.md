@@ -17,7 +17,7 @@ in perpetuity.
 
 ## Overview
 
-This is a small example of creating a file selection dialog in the TwinCAT HMI API.
+This is a small example of creating a file selection dialog in the TwinCAT HMI API.  Also be sure to check out this other great post by Jack Borelius found [here](https://www.linkedin.com/pulse/file-explorer-virtual-directory-jack-borelius/).
 
 ## Getting started
 
