@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-file-select-on-server-dialog", "tchmi-file-select-on-server-dialog\tchmi-file-select-on-server-dialog.hmiproj", "{2B69EB53-ECAD-496B-9DEE-51012A058616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B69EB53-ECAD-496B-9DEE-51012A058616}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{2B69EB53-ECAD-496B-9DEE-51012A058616}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{2B69EB53-ECAD-496B-9DEE-51012A058616}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{2B69EB53-ECAD-496B-9DEE-51012A058616}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD69E21-A02A-4B33-9EF5-D59BFEAA56C4}
+	EndGlobalSection
+EndGlobal
