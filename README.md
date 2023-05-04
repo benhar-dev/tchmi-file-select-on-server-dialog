@@ -81,7 +81,7 @@ dialogBackdrop.setBackgroundColor({
 ```
 
 ```javascript
-// This controls the color of the backdrop
+// This controls the position and layer of the dialog
 var dialog = TcHmi.ControlFactory.createEx(
   "TcHmiUserControlHost",
   generateUniqueId(),
