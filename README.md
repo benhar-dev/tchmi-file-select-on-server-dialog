@@ -1,5 +1,7 @@
 # Simple example of creating a file selection dialog using a UserControl in TwinCAT HMI
 
+> Please note, this example is now obsolete.  The latest version of TwinCAT HMI now supports popups.  
+
 ## Disclaimer
 
 This is a personal guide not a peer reviewed journal or a sponsored publication. We make
